@@ -8,6 +8,7 @@ Elzboon is a Customer Relationship Management (CRM) system powered by AI 🤖.
 </p>
 In our project Elzboon, we apply machine learning algorithms to help businesses make insightful decisions based on their data. Our CRM system aims to assist businesses in increasing profitability and efficiently managing their customers.
 
+Front-end: https://github.com/Ahmed-Abou-Emran/ELzoboon-CRM
 ## Features
 
 - [x] **Customer segmentation:** Elzboon provides advanced customer segmentation capabilities, allowing businesses to group their customers based on various criteria such as demographics, purchasing behavior, and engagement levels. This helps businesses target specific customer segments with personalized marketing campaigns and improve customer satisfaction.
